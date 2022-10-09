@@ -1,7 +1,7 @@
 package yelinskyi.vitalii.controller;
 
-import yelinskyi.vitalii.Service.UserService;
-import yelinskyi.vitalii.Service.UserServiceImpl;
+import yelinskyi.vitalii.service.UserService;
+import yelinskyi.vitalii.service.UserServiceImpl;
 import yelinskyi.vitalii.model.User;
 
 import javax.servlet.ServletException;

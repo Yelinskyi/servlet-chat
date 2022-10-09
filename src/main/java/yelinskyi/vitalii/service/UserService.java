@@ -1,4 +1,4 @@
-package yelinskyi.vitalii.Service;
+package yelinskyi.vitalii.service;
 
 import yelinskyi.vitalii.model.User;
 
